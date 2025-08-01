@@ -8,14 +8,8 @@ A clean and responsive Udemy-inspired online learning platform built using HTML5
 
 ## Live Demo
 
-[Click here to view the website](YOUR_GITHUB_PAGES_LINK)
+[Click here to view the website](https://aravinthaa.github.io/Udemy-website/)
 
----
-
-## Preview
-
-(Add a screenshot after uploading it to your repo)
-`![Website Preview](screenshot.png)`
 
 ---
 
